@@ -4,6 +4,10 @@ modx-similar-resources
 - snippet shows similar resources like articles or news by they tags
 - worked with **pdoResources** snippet (pdoTools package)
 
+**Install**
+- create new snippet, named similarResources
+- copy-paste code from __modx-similar-resources-snippet.php__
+
 **Usage:**
 ```php
 [[!pdoResources?
