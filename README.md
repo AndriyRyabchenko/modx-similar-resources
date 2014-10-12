@@ -5,6 +5,7 @@ snippet shows similar resources like articles or news by they tags
 
 
 Usage:
+
 [[!pdoResources?
 &tpl=`similarResources_tpl`
 &sortby=`RAND()`
